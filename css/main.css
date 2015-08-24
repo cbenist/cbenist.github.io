@@ -1,0 +1,12 @@
+body{
+    background-color:rgba(100,100,100,1);
+    font-family:Arial;
+}
+
+.container{
+    background-color: pink;
+    width:80%;
+    margin:auto;
+    text-align:center;
+    
+}
